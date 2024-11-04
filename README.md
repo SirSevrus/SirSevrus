@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @SirSevrus
-- 👀 I’m interested in python programming ideas.
-- 🌱 I’m currently sharpening my skills in python and also moving towards the machine learning.
-- 💞️ I’m looking to collaborate on github.
-- 📫 How to reach me - Just msg me here.
+# 👋 Hi, I’m @SirSevrus
 
-<!---
-SirSevrus/SirSevrus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m passionate about learning new things in computer programming, especially in Python.
+- 🌱 Currently, I’m refining my Python skills and exploring the world of machine learning.
+- 🎨 I have experience in designing websites using CSS.
+- 🎓 I'm in grade 12, diving deeper into programming with each project.
+- 🔭 Check out my projects on GitHub: **myfetch** and **library-win**.
+- 💞️ I’m open to collaborating on interesting projects and expanding my knowledge.
+- 📫 How to reach me: Just message me here or connect on Discord!
+
+[![Discord](https://media.tenor.com/WLf29fHjuAkAAAAi/wumpus-halloween.gif)](https://discord.gg/bYb6FnMd)
+
+Let's connect and learn together!
